@@ -1,6 +1,5 @@
 # Animated_icons
 
-ICONS-ANIMATED-JSON 
 
 ### EXAMPLE
 ``` 
