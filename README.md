@@ -1,6 +1,6 @@
 # CodigoJsons
 
-//ICONS-ANIMATED-JSON 
+ICONS-ANIMATED-JSON 
 
 #EXAMPLE
 <div id="container"></div>
