@@ -3,7 +3,8 @@
 ICONS-ANIMATED-JSON 
 
 ### EXAMPLE
-``` <div id="container"></div>
+``` 
+ <div id="container"></div>
  <style>
  #container {
   position: fixed;
@@ -17,7 +18,7 @@ ICONS-ANIMATED-JSON
 <script>
     var animation = bodymovin.loadAnimation({
     container: document.getElementById('container'),
-    path: 'https://raw.githubusercontent.com/FabrizioVash/CodigoJsons/main/icon.json',
+    path: 'https://raw.githubusercontent.com/FabrizioVash/Animated_icons/main/icons8-home.json',
     renderer: 'svg',
     loop: true,
     autoplay: true,
